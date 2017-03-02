@@ -1,12 +1,6 @@
-# **ASSIGNMENT 4-7-16**
+# **Copy Text Javascript**
 
-### The Zaki's Academy _[Zaki's Academy](zakis-academy.firebaseapp.com)_ .
 
-#### 
-
-### Click the link to view the page
-
-[The Zaki's Academy](zakis-academy.firebaseapp.com)
 
 
 
