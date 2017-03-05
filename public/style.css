@@ -1,0 +1,19 @@
+#head1{
+    background-color: burlywood;
+}
+
+#txt{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+#para{
+    text-align: justify;
+    color: black;
+}
+#copytext{
+ color:red;
+ text-align: justify;
+ padding: 5px;
+ max-height: 110;
+ resize: none;
+}
